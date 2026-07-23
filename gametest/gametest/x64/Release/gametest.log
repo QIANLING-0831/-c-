@@ -1,0 +1,8 @@
+﻿  gametest.cpp
+C:\代码练习\gametest\gametest\gametest.cpp(468,4): warning C4551: 缺少参数列表的函数调用
+C:\代码练习\gametest\gametest\gametest.cpp(554,4): warning C4551: 缺少参数列表的函数调用
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  gametest.vcxproj -> C:\代码练习\gametest\x64\Release\gametest.exe
