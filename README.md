@@ -4,7 +4,7 @@
 
 <p align="center">在字符画布上移动、转向与发射，体验单人对战和双人同屏。</p>
 
-<p align="center"><img src="https://img.shields.io/badge/docs-%E4%B8%AD%E6%96%87-4ade80?style=flat-square&amp;labelColor=172033" alt="docs: 中文"> <img src="https://img.shields.io/badge/maintainer-QIANLING-0831-4ade80?style=flat-square&amp;labelColor=172033" alt="maintainer: QIANLING-0831"> </p>
+<p align="center"><img src="https://img.shields.io/badge/docs-%E4%B8%AD%E6%96%87-4ade80?style=flat-square&amp;labelColor=172033" alt="docs: 中文"> <img src="https://img.shields.io/badge/maintainer-QIANLING--0831-4ade80?style=flat-square&amp;labelColor=172033" alt="maintainer: QIANLING-0831"> </p>
 
 <p align="center"><a href="#快速开始">快速开始</a> &nbsp; · &nbsp; <a href="#玩法与按键">玩法与按键</a> &nbsp; · &nbsp; <a href="#读代码">读代码</a> &nbsp; · &nbsp; <a href="#项目背景">项目背景</a></p>
 
